@@ -1,0 +1,561 @@
+{
+  "Version": "2019-10-30",
+  "StartAction": "aefac270-5c4d-4a40-91e9-1a3dde891a52",
+  "Metadata": {
+    "entryPointPosition": {
+      "x": 40,
+      "y": 40
+    },
+    "ActionMetadata": {
+      "d9cb3224-5cb1-48b0-bd0d-1b872867e969": {
+        "position": {
+          "x": 205.6,
+          "y": 827.2
+        }
+      },
+      "1ed17be7-c217-49cf-aa17-0b90b5315520": {
+        "position": {
+          "x": 21.6,
+          "y": 630.4
+        }
+      },
+      "72904a4c-36eb-4324-b4da-e217f179b01e": {
+        "position": {
+          "x": 280,
+          "y": 64
+        },
+        "parameters": {
+          "Messages": [
+            {
+              "PromptId": {
+                "displayName": "telugu_queue"
+              }
+            },
+            {
+              "PromptId": {
+                "displayName": "Music_Jazz_MyTimetoFly_Inst.wav"
+              }
+            }
+          ],
+          "InterruptFrequencySeconds": {
+            "unit": 1
+          }
+        },
+        "audio": [
+          {
+            "id": "arn:aws:connect:us-east-1:189243246970:instance/be8dc555-8bea-4a03-b35f-21d4496e373c/prompt/c1271143-a9b0-4466-bd50-8c8890f62a70",
+            "text": "telugu_queue",
+            "type": "Prompt"
+          },
+          {
+            "id": "arn:aws:connect:us-east-1:189243246970:instance/be8dc555-8bea-4a03-b35f-21d4496e373c/prompt/42d0e56e-cfd4-4052-a512-5bb1a7f67b23",
+            "text": "Music_Jazz_MyTimetoFly_Inst.wav",
+            "type": "Prompt"
+          }
+        ],
+        "timeoutUnit": {
+          "value": "sec"
+        }
+      },
+      "3d5879ee-e8df-414f-8b3e-5251a3d2542d": {
+        "position": {
+          "x": 512,
+          "y": 168
+        },
+        "parameters": {
+          "Messages": [
+            {
+              "PromptId": {
+                "displayName": "telugu_queue"
+              }
+            },
+            {
+              "PromptId": {
+                "displayName": "Music_Jazz_MyTimetoFly_Inst.wav"
+              }
+            }
+          ],
+          "InterruptFrequencySeconds": {
+            "unit": 1
+          }
+        },
+        "audio": [
+          {
+            "id": "arn:aws:connect:us-east-1:189243246970:instance/be8dc555-8bea-4a03-b35f-21d4496e373c/prompt/c1271143-a9b0-4466-bd50-8c8890f62a70",
+            "text": "telugu_queue",
+            "type": "Prompt"
+          },
+          {
+            "id": "arn:aws:connect:us-east-1:189243246970:instance/be8dc555-8bea-4a03-b35f-21d4496e373c/prompt/42d0e56e-cfd4-4052-a512-5bb1a7f67b23",
+            "text": "Music_Jazz_MyTimetoFly_Inst.wav",
+            "type": "Prompt"
+          }
+        ],
+        "timeoutUnit": {
+          "value": "sec"
+        }
+      },
+      "436a7916-cfaf-457e-b669-716980682bc3": {
+        "position": {
+          "x": 532,
+          "y": 345.6
+        },
+        "parameters": {
+          "Messages": [
+            {
+              "PromptId": {
+                "displayName": "marathi_queue"
+              }
+            },
+            {
+              "PromptId": {
+                "displayName": "Music_Jazz_MyTimetoFly_Inst.wav"
+              }
+            }
+          ],
+          "InterruptFrequencySeconds": {
+            "unit": 1
+          }
+        },
+        "audio": [
+          {
+            "id": "arn:aws:connect:us-east-1:189243246970:instance/be8dc555-8bea-4a03-b35f-21d4496e373c/prompt/5cd89cd8-cc7e-4f35-a085-59c0f6269648",
+            "text": "marathi_queue",
+            "type": "Prompt"
+          },
+          {
+            "id": "arn:aws:connect:us-east-1:189243246970:instance/be8dc555-8bea-4a03-b35f-21d4496e373c/prompt/42d0e56e-cfd4-4052-a512-5bb1a7f67b23",
+            "text": "Music_Jazz_MyTimetoFly_Inst.wav",
+            "type": "Prompt"
+          }
+        ],
+        "timeoutUnit": {
+          "value": "sec"
+        }
+      },
+      "8a2e3fc6-bf1f-4366-b702-97ddcec1493d": {
+        "position": {
+          "x": 328,
+          "y": 445.6
+        },
+        "parameters": {
+          "Messages": [
+            {
+              "PromptId": {
+                "displayName": "tamil_queue"
+              }
+            },
+            {
+              "PromptId": {
+                "displayName": "Music_Jazz_MyTimetoFly_Inst.wav"
+              }
+            }
+          ],
+          "InterruptFrequencySeconds": {
+            "unit": 1
+          }
+        },
+        "audio": [
+          {
+            "id": "arn:aws:connect:us-east-1:189243246970:instance/be8dc555-8bea-4a03-b35f-21d4496e373c/prompt/c41dae58-23ea-43a0-a874-61301fa27e89",
+            "text": "tamil_queue",
+            "type": "Prompt"
+          },
+          {
+            "id": "arn:aws:connect:us-east-1:189243246970:instance/be8dc555-8bea-4a03-b35f-21d4496e373c/prompt/42d0e56e-cfd4-4052-a512-5bb1a7f67b23",
+            "text": "Music_Jazz_MyTimetoFly_Inst.wav",
+            "type": "Prompt"
+          }
+        ],
+        "timeoutUnit": {
+          "value": "sec"
+        }
+      },
+      "aefac270-5c4d-4a40-91e9-1a3dde891a52": {
+        "position": {
+          "x": 57.6,
+          "y": 239.2
+        },
+        "conditions": [],
+        "conditionMetadata": [
+          {
+            "id": "27fd75b5-8809-48c8-89ce-f788936e431b",
+            "operator": {
+              "name": "Equals",
+              "value": "Equals",
+              "shortDisplay": "="
+            },
+            "value": "AndhraPradesh_CS"
+          },
+          {
+            "id": "f878047e-615c-4ad1-bfc9-bfed80f70594",
+            "operator": {
+              "name": "Equals",
+              "value": "Equals",
+              "shortDisplay": "="
+            },
+            "value": "Telangana_CS"
+          },
+          {
+            "id": "228b5703-7416-4307-8f59-05a42e4c54b4",
+            "operator": {
+              "name": "Equals",
+              "value": "Equals",
+              "shortDisplay": "="
+            },
+            "value": "Maharashtra_CS"
+          },
+          {
+            "id": "bdffa560-57e8-45fa-9477-ee101d82d6b1",
+            "operator": {
+              "name": "Equals",
+              "value": "Equals",
+              "shortDisplay": "="
+            },
+            "value": "TamilNadu_CS"
+          },
+          {
+            "id": "a20b0d58-42c4-4ca9-9bf4-a681b6a23883",
+            "operator": {
+              "name": "Equals",
+              "value": "Equals",
+              "shortDisplay": "="
+            },
+            "value": "Custom_CS"
+          }
+        ]
+      },
+      "4fed4737-ee2d-45fb-9f9c-44c34469022d": {
+        "position": {
+          "x": 878.4,
+          "y": 463.2
+        }
+      },
+      "4b9877eb-d627-40bd-a783-3d6e5b43bc0c": {
+        "position": {
+          "x": 851.2,
+          "y": 770.4
+        }
+      },
+      "efa4f356-c3e7-43c5-a8e0-aa0338664318": {
+        "position": {
+          "x": 284.8,
+          "y": 641.6
+        },
+        "parameters": {
+          "Messages": [
+            null,
+            {
+              "PromptId": {
+                "displayName": "Music_Jazz_MyTimetoFly_Inst.wav"
+              }
+            }
+          ],
+          "InterruptFrequencySeconds": {
+            "unit": 1
+          }
+        },
+        "audio": [
+          {
+            "id": "arn:aws:connect:us-east-1:189243246970:instance/be8dc555-8bea-4a03-b35f-21d4496e373c/prompt/42d0e56e-cfd4-4052-a512-5bb1a7f67b23",
+            "text": "Music_Jazz_MyTimetoFly_Inst.wav",
+            "type": "Prompt"
+          }
+        ],
+        "timeoutUnit": {
+          "value": "sec"
+        }
+      }
+    },
+    "Annotations": [],
+    "name": "Statewise_callmanager_queue",
+    "description": "",
+    "type": "customerQueue",
+    "status": "PUBLISHED",
+    "hash": {}
+  },
+  "Actions": [
+    {
+      "Parameters": {},
+      "Identifier": "d9cb3224-5cb1-48b0-bd0d-1b872867e969",
+      "Type": "EndFlowExecution",
+      "Transitions": {}
+    },
+    {
+      "Parameters": {
+        "Text": "sorry.no match"
+      },
+      "Identifier": "1ed17be7-c217-49cf-aa17-0b90b5315520",
+      "Type": "MessageParticipant",
+      "Transitions": {
+        "NextAction": "d9cb3224-5cb1-48b0-bd0d-1b872867e969",
+        "Errors": [
+          {
+            "NextAction": "d9cb3224-5cb1-48b0-bd0d-1b872867e969",
+            "ErrorType": "NoMatchingError"
+          }
+        ]
+      }
+    },
+    {
+      "Parameters": {
+        "Messages": [
+          {
+            "PromptId": "arn:aws:connect:us-east-1:189243246970:instance/be8dc555-8bea-4a03-b35f-21d4496e373c/prompt/c1271143-a9b0-4466-bd50-8c8890f62a70"
+          },
+          {
+            "PromptId": "arn:aws:connect:us-east-1:189243246970:instance/be8dc555-8bea-4a03-b35f-21d4496e373c/prompt/42d0e56e-cfd4-4052-a512-5bb1a7f67b23"
+          }
+        ],
+        "InterruptFrequencySeconds": "25"
+      },
+      "Identifier": "72904a4c-36eb-4324-b4da-e217f179b01e",
+      "Type": "MessageParticipantIteratively",
+      "Transitions": {
+        "NextAction": "4b9877eb-d627-40bd-a783-3d6e5b43bc0c",
+        "Conditions": [
+          {
+            "NextAction": "4fed4737-ee2d-45fb-9f9c-44c34469022d",
+            "Condition": {
+              "Operator": "Equals",
+              "Operands": [
+                "MessagesInterrupted"
+              ]
+            }
+          }
+        ],
+        "Errors": [
+          {
+            "NextAction": "4b9877eb-d627-40bd-a783-3d6e5b43bc0c",
+            "ErrorType": "NoMatchingError"
+          }
+        ]
+      }
+    },
+    {
+      "Parameters": {
+        "Messages": [
+          {
+            "PromptId": "arn:aws:connect:us-east-1:189243246970:instance/be8dc555-8bea-4a03-b35f-21d4496e373c/prompt/c1271143-a9b0-4466-bd50-8c8890f62a70"
+          },
+          {
+            "PromptId": "arn:aws:connect:us-east-1:189243246970:instance/be8dc555-8bea-4a03-b35f-21d4496e373c/prompt/42d0e56e-cfd4-4052-a512-5bb1a7f67b23"
+          }
+        ],
+        "InterruptFrequencySeconds": "25"
+      },
+      "Identifier": "3d5879ee-e8df-414f-8b3e-5251a3d2542d",
+      "Type": "MessageParticipantIteratively",
+      "Transitions": {
+        "NextAction": "4b9877eb-d627-40bd-a783-3d6e5b43bc0c",
+        "Conditions": [
+          {
+            "NextAction": "4fed4737-ee2d-45fb-9f9c-44c34469022d",
+            "Condition": {
+              "Operator": "Equals",
+              "Operands": [
+                "MessagesInterrupted"
+              ]
+            }
+          }
+        ],
+        "Errors": [
+          {
+            "NextAction": "4b9877eb-d627-40bd-a783-3d6e5b43bc0c",
+            "ErrorType": "NoMatchingError"
+          }
+        ]
+      }
+    },
+    {
+      "Parameters": {
+        "Messages": [
+          {
+            "PromptId": "arn:aws:connect:us-east-1:189243246970:instance/be8dc555-8bea-4a03-b35f-21d4496e373c/prompt/5cd89cd8-cc7e-4f35-a085-59c0f6269648"
+          },
+          {
+            "PromptId": "arn:aws:connect:us-east-1:189243246970:instance/be8dc555-8bea-4a03-b35f-21d4496e373c/prompt/42d0e56e-cfd4-4052-a512-5bb1a7f67b23"
+          }
+        ],
+        "InterruptFrequencySeconds": "25"
+      },
+      "Identifier": "436a7916-cfaf-457e-b669-716980682bc3",
+      "Type": "MessageParticipantIteratively",
+      "Transitions": {
+        "NextAction": "4b9877eb-d627-40bd-a783-3d6e5b43bc0c",
+        "Conditions": [
+          {
+            "NextAction": "4fed4737-ee2d-45fb-9f9c-44c34469022d",
+            "Condition": {
+              "Operator": "Equals",
+              "Operands": [
+                "MessagesInterrupted"
+              ]
+            }
+          }
+        ],
+        "Errors": [
+          {
+            "NextAction": "4b9877eb-d627-40bd-a783-3d6e5b43bc0c",
+            "ErrorType": "NoMatchingError"
+          }
+        ]
+      }
+    },
+    {
+      "Parameters": {
+        "Messages": [
+          {
+            "PromptId": "arn:aws:connect:us-east-1:189243246970:instance/be8dc555-8bea-4a03-b35f-21d4496e373c/prompt/c41dae58-23ea-43a0-a874-61301fa27e89"
+          },
+          {
+            "PromptId": "arn:aws:connect:us-east-1:189243246970:instance/be8dc555-8bea-4a03-b35f-21d4496e373c/prompt/42d0e56e-cfd4-4052-a512-5bb1a7f67b23"
+          }
+        ],
+        "InterruptFrequencySeconds": "25"
+      },
+      "Identifier": "8a2e3fc6-bf1f-4366-b702-97ddcec1493d",
+      "Type": "MessageParticipantIteratively",
+      "Transitions": {
+        "NextAction": "4b9877eb-d627-40bd-a783-3d6e5b43bc0c",
+        "Conditions": [
+          {
+            "NextAction": "4fed4737-ee2d-45fb-9f9c-44c34469022d",
+            "Condition": {
+              "Operator": "Equals",
+              "Operands": [
+                "MessagesInterrupted"
+              ]
+            }
+          }
+        ],
+        "Errors": [
+          {
+            "NextAction": "4b9877eb-d627-40bd-a783-3d6e5b43bc0c",
+            "ErrorType": "NoMatchingError"
+          }
+        ]
+      }
+    },
+    {
+      "Parameters": {
+        "ComparisonValue": "$.Queue.Name"
+      },
+      "Identifier": "aefac270-5c4d-4a40-91e9-1a3dde891a52",
+      "Type": "Compare",
+      "Transitions": {
+        "NextAction": "1ed17be7-c217-49cf-aa17-0b90b5315520",
+        "Conditions": [
+          {
+            "NextAction": "72904a4c-36eb-4324-b4da-e217f179b01e",
+            "Condition": {
+              "Operator": "Equals",
+              "Operands": [
+                "AndhraPradesh_CS"
+              ]
+            }
+          },
+          {
+            "NextAction": "3d5879ee-e8df-414f-8b3e-5251a3d2542d",
+            "Condition": {
+              "Operator": "Equals",
+              "Operands": [
+                "Telangana_CS"
+              ]
+            }
+          },
+          {
+            "NextAction": "436a7916-cfaf-457e-b669-716980682bc3",
+            "Condition": {
+              "Operator": "Equals",
+              "Operands": [
+                "Maharashtra_CS"
+              ]
+            }
+          },
+          {
+            "NextAction": "8a2e3fc6-bf1f-4366-b702-97ddcec1493d",
+            "Condition": {
+              "Operator": "Equals",
+              "Operands": [
+                "TamilNadu_CS"
+              ]
+            }
+          },
+          {
+            "NextAction": "efa4f356-c3e7-43c5-a8e0-aa0338664318",
+            "Condition": {
+              "Operator": "Equals",
+              "Operands": [
+                "Custom_CS"
+              ]
+            }
+          }
+        ],
+        "Errors": [
+          {
+            "NextAction": "1ed17be7-c217-49cf-aa17-0b90b5315520",
+            "ErrorType": "NoMatchingCondition"
+          }
+        ]
+      }
+    },
+    {
+      "Parameters": {},
+      "Identifier": "4fed4737-ee2d-45fb-9f9c-44c34469022d",
+      "Type": "EndFlowExecution",
+      "Transitions": {}
+    },
+    {
+      "Parameters": {
+        "Text": "something wrong in queue prompt"
+      },
+      "Identifier": "4b9877eb-d627-40bd-a783-3d6e5b43bc0c",
+      "Type": "MessageParticipant",
+      "Transitions": {
+        "NextAction": "4fed4737-ee2d-45fb-9f9c-44c34469022d",
+        "Errors": [
+          {
+            "NextAction": "4fed4737-ee2d-45fb-9f9c-44c34469022d",
+            "ErrorType": "NoMatchingError"
+          }
+        ]
+      }
+    },
+    {
+      "Parameters": {
+        "Messages": [
+          {
+            "Text": "Thank you for your patience. Your call is important to us. Please stay on the line, and an agent will be with you shortly."
+          },
+          {
+            "PromptId": "arn:aws:connect:us-east-1:189243246970:instance/be8dc555-8bea-4a03-b35f-21d4496e373c/prompt/42d0e56e-cfd4-4052-a512-5bb1a7f67b23"
+          }
+        ],
+        "InterruptFrequencySeconds": "25"
+      },
+      "Identifier": "efa4f356-c3e7-43c5-a8e0-aa0338664318",
+      "Type": "MessageParticipantIteratively",
+      "Transitions": {
+        "NextAction": "4b9877eb-d627-40bd-a783-3d6e5b43bc0c",
+        "Conditions": [
+          {
+            "NextAction": "4fed4737-ee2d-45fb-9f9c-44c34469022d",
+            "Condition": {
+              "Operator": "Equals",
+              "Operands": [
+                "MessagesInterrupted"
+              ]
+            }
+          }
+        ],
+        "Errors": [
+          {
+            "NextAction": "4b9877eb-d627-40bd-a783-3d6e5b43bc0c",
+            "ErrorType": "NoMatchingError"
+          }
+        ]
+      }
+    }
+  ]
+}
