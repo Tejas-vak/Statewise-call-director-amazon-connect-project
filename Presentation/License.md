@@ -1,6 +1,6 @@
 # LICENSE
 
-© [Tejas Vakare], [2025]. All rights reserved.
+© [Tejas Vakare, Vamsi Bharath Chandra Vajapeyayajula], [2025]. All rights reserved.
 
 This repository contains original content including presentation materials that are protected under copyright law.
 
